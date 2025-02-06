@@ -1,2 +1,3 @@
-# image-processing
-VHDL digital circuit implementing an image processing task on the FPGA module of a Zynq-7000 development board
+# Image processing
+
+Learn more at [deluf.github.io/2025/image-processing](https://deluf.github.io/2025/image-processing)
